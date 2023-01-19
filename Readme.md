@@ -1,4 +1,4 @@
-# companyCrud
+# Company Crud
 
 ## Table of contents
 * [General info](#general-info)
