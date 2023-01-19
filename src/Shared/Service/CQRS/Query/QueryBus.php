@@ -4,5 +4,5 @@ namespace App\Shared\Service\CQRS\Query;
 
 interface QueryBus
 {
-    public function handle(Query $query): mixed;
+    public function dispatch(Query $query): mixed;
 }
