@@ -1,0 +1,11 @@
+controllers_company:
+    resource: ../src/Company/Controller/
+    type: annotation
+
+controllers_employee:
+    resource: ../src/Employee/Controller/
+    type: annotation
+
+kernel:
+    resource: ../src/Kernel.php
+    type: annotation
